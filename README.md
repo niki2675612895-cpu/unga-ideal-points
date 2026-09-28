@@ -11,8 +11,6 @@ In 2024, the Middle East contained both the **least US-aligned state in the worl
 behind only the United States itself). MENA is also the **most internally divided region**
 of the five regional groups compared here — in 33 of the 34 years covered.
 
-The region is not a bloc. 
-This is the finding this repository documents.
 ---
 
 ## Figures
