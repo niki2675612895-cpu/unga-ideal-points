@@ -1,0 +1,192 @@
+rank,Countryname,iso3c,group,IdealPointFP,NVotesFP
+1,Syria,SYR,MENA,-1.942412,87
+2,Nicaragua,NIC,Latin America & Caribbean,-1.511736,107
+3,Iran,IRN,MENA,-1.463593,104
+4,Cuba,CUB,Latin America & Caribbean,-1.366578,107
+5,Mali,MLI,Sub-Saharan Africa,-1.206561,105
+6,Burundi,BDI,Sub-Saharan Africa,-1.173942,94
+7,Sudan,SDN,MENA,-1.127938,105
+8,Eritrea,ERI,Sub-Saharan Africa,-1.100605,108
+9,Niger,NER,Sub-Saharan Africa,-1.046594,96
+10,Bolivia,BOL,Latin America & Caribbean,-1.006055,101
+11,Burkina Faso,BFA,Sub-Saharan Africa,-0.9613885,87
+12,Zimbabwe,ZWE,Sub-Saharan Africa,-0.9387908,100
+13,Algeria,DZA,MENA,-0.927744,108
+14,China,CHN,Other,-0.8553173,107
+15,Belarus,BLR,Other,-0.8485987,106
+16,Oman,OMN,MENA,-0.8456117,107
+17,Turkmenistan,TKM,Other,-0.8231848,61
+18,Egypt,EGY,MENA,-0.8198546,108
+19,Lebanon,LBN,MENA,-0.8036564,106
+20,Libya,LBY,MENA,-0.7901278,97
+21,Tajikistan,TJK,Other,-0.7822712,89
+22,Iraq,IRQ,MENA,-0.7523455,105
+23,North Korea,PRK,Other,-0.7276899,97
+24,Kyrgyzstan,KGZ,Other,-0.7097313,92
+25,Tunisia,TUN,MENA,-0.7055962,106
+26,Somalia,SOM,Sub-Saharan Africa,-0.701845,71
+27,Indonesia,IDN,South & East Asia,-0.701637,107
+28,Brunei,BRN,Other,-0.6946986,108
+29,Uzbekistan,UZB,Other,-0.6917373,86
+30,Ethiopia,ETH,Sub-Saharan Africa,-0.6815554,98
+31,Vietnam,VNM,South & East Asia,-0.6803149,99
+32,Guinea,GIN,Sub-Saharan Africa,-0.679548,94
+33,Sri Lanka,LKA,South & East Asia,-0.6735984,108
+34,Laos,LAO,South & East Asia,-0.6623736,102
+35,Bahrain,BHR,MENA,-0.6578587,108
+36,Azerbaijan,AZE,Other,-0.6440557,74
+37,Jordan,JOR,MENA,-0.6418613,108
+38,Yemen,YEM,MENA,-0.6386111,108
+39,Angola,AGO,Other,-0.6256151,103
+40,Uganda,UGA,Sub-Saharan Africa,-0.6226195,98
+41,Malaysia,MYS,South & East Asia,-0.6186904,108
+42,United Arab Emirates,ARE,MENA,-0.6143539,107
+43,Djibouti,DJI,Sub-Saharan Africa,-0.6076282,102
+44,Equatorial Guinea,GNQ,Other,-0.6063807,76
+45,Saudi Arabia,SAU,MENA,-0.5907673,107
+46,Senegal,SEN,Sub-Saharan Africa,-0.58801,101
+47,Russia,RUS,Other,-0.5815511,108
+48,Mauritania,MRT,MENA,-0.5790553,99
+49,Tanzania,TZA,Sub-Saharan Africa,-0.5777776,91
+50,Namibia,NAM,Sub-Saharan Africa,-0.5499108,102
+51,Congo - Brazzaville,COG,Sub-Saharan Africa,-0.5280435,91
+52,Bangladesh,BGD,South & East Asia,-0.527337,107
+53,Chad,TCD,Sub-Saharan Africa,-0.5267722,97
+54,Nigeria,NGA,Sub-Saharan Africa,-0.5165544,101
+55,Kuwait,KWT,MENA,-0.5130812,106
+56,Botswana,BWA,Sub-Saharan Africa,-0.5117934,86
+57,Kazakhstan,KAZ,Other,-0.5040914,94
+58,Kenya,KEN,Sub-Saharan Africa,-0.4965314,105
+59,Mongolia,MNG,South & East Asia,-0.4929048,103
+60,Eswatini,SWZ,Sub-Saharan Africa,-0.4693472,66
+61,Guinea-Bissau,GNB,Sub-Saharan Africa,-0.4668258,82
+62,Mozambique,MOZ,Sub-Saharan Africa,-0.4668108,98
+63,Central African Republic,CAF,Other,-0.4593371,69
+64,Morocco,MAR,MENA,-0.4576042,101
+65,Madagascar,MDG,Sub-Saharan Africa,-0.4534738,89
+66,Cambodia,KHM,Other,-0.4511926,99
+67,Maldives,MDV,South & East Asia,-0.4499854,104
+68,Comoros,COM,Sub-Saharan Africa,-0.442425,78
+69,Sierra Leone,SLE,Sub-Saharan Africa,-0.4263552,97
+70,Solomon Islands,SLB,Other,-0.426264,75
+71,South Africa,ZAF,Sub-Saharan Africa,-0.4164392,108
+72,Zambia,ZMB,Sub-Saharan Africa,-0.4099436,74
+73,Qatar,QAT,MENA,-0.4045593,108
+74,Gabon,GAB,Sub-Saharan Africa,-0.400781,88
+75,Gambia,GMB,Sub-Saharan Africa,-0.3932607,92
+76,St. Lucia,LCA,Other,-0.379678,101
+77,Thailand,THA,South & East Asia,-0.3768551,108
+78,St. Kitts & Nevis,KNA,Other,-0.3752262,83
+79,Dominica,DMA,Other,-0.371433,30
+80,St. Vincent & Grenadines,VCT,Other,-0.3625244,86
+81,Nepal,NPL,South & East Asia,-0.362043,103
+82,Trinidad & Tobago,TTO,Latin America & Caribbean,-0.3472636,108
+83,Benin,BEN,Sub-Saharan Africa,-0.3416237,62
+84,Togo,TGO,Sub-Saharan Africa,-0.3402928,99
+85,Grenada,GRD,Other,-0.3313812,73
+86,Pakistan,PAK,South & East Asia,-0.3252673,107
+87,Rwanda,RWA,Sub-Saharan Africa,-0.3194433,91
+88,Bhutan,BTN,South & East Asia,-0.3137468,102
+89,Lesotho,LSO,Sub-Saharan Africa,-0.3090528,98
+90,Ghana,GHA,Sub-Saharan Africa,-0.3086657,100
+91,Congo - Kinshasa,COD,Sub-Saharan Africa,-0.3061056,82
+92,El Salvador,SLV,Latin America & Caribbean,-0.2988809,106
+93,Mauritius,MUS,Sub-Saharan Africa,-0.2931315,101
+94,Antigua & Barbuda,ATG,Other,-0.2881856,91
+95,Singapore,SGP,South & East Asia,-0.2861855,108
+96,Brazil,BRA,Latin America & Caribbean,-0.2665375,107
+97,Belize,BLZ,Other,-0.2475277,91
+98,Colombia,COL,Latin America & Caribbean,-0.2344727,108
+99,Timor-Leste,TLS,South & East Asia,-0.2307296,99
+100,Philippines,PHL,South & East Asia,-0.2262242,108
+101,São Tomé & Príncipe,STP,Other,-0.2165482,35
+102,Cameroon,CMR,Sub-Saharan Africa,-0.2142134,96
+103,Guyana,GUY,Other,-0.213727,108
+104,Jamaica,JAM,Latin America & Caribbean,-0.2059209,103
+105,Barbados,BRB,Other,-0.2051879,98
+106,Suriname,SUR,Other,-0.1985196,104
+107,Haiti,HTI,Other,-0.1940552,88
+108,Myanmar (Burma),MMR,South & East Asia,-0.1796654,99
+109,Cape Verde,CPV,Sub-Saharan Africa,-0.1781525,89
+110,Seychelles,SYC,Sub-Saharan Africa,-0.1555252,86
+111,Peru,PER,Latin America & Caribbean,-0.1510374,108
+112,Bahamas,BHS,Other,-0.1401188,100
+113,Vanuatu,VUT,Other,-0.128002,90
+114,Côte d’Ivoire,CIV,Sub-Saharan Africa,-0.1174018,104
+115,India,IND,South & East Asia,-0.09303771,108
+116,Honduras,HND,Latin America & Caribbean,-0.07857527,105
+117,Guatemala,GTM,Latin America & Caribbean,-0.07438861,108
+118,Tuvalu,TUV,Other,-0.06165881,67
+119,Dominican Republic,DOM,Latin America & Caribbean,-0.05712324,108
+120,Samoa,WSM,Other,-0.04325059,68
+121,Costa Rica,CRI,Latin America & Caribbean,-0.03630417,107
+122,Mexico,MEX,Latin America & Caribbean,-0.02452753,106
+123,Ecuador,ECU,Latin America & Caribbean,-0.02387109,95
+124,Chile,CHL,Latin America & Caribbean,-0.01080288,108
+125,Malawi,MWI,Sub-Saharan Africa,0.004030592,84
+126,South Sudan,SSD,Sub-Saharan Africa,0.01067229,22
+127,Uruguay,URY,Latin America & Caribbean,0.01719555,108
+128,Fiji,FJI,Other,0.02723013,90
+129,Kiribati,KIR,Other,0.03048062,81
+130,Liberia,LBR,Sub-Saharan Africa,0.1146137,84
+131,Armenia,ARM,Other,0.1201911,94
+132,Panama,PAN,Latin America & Caribbean,0.1328899,106
+133,Tonga,TON,Other,0.2185884,79
+134,Nauru,NRU,Other,0.2930462,52
+135,Paraguay,PRY,Latin America & Caribbean,0.2998331,107
+136,Papua New Guinea,PNG,Other,0.3227436,104
+137,Serbia,SRB,Other,0.3892528,85
+138,Turkey,TUR,MENA,0.4797632,102
+139,Marshall Islands,MHL,Other,0.4797918,92
+140,Palau,PLW,Other,0.5455232,99
+141,Cyprus,CYP,Other,0.6668351,108
+142,Norway,NOR,Western Europe & North America,0.715869,108
+143,San Marino,SMR,Other,0.7441405,108
+144,Ireland,IRL,Western Europe & North America,0.7455513,108
+145,Malta,MLT,Other,0.7470952,108
+146,Andorra,AND,Other,0.7487433,105
+147,Liechtenstein,LIE,Other,0.7587576,108
+148,Switzerland,CHE,Western Europe & North America,0.75918,108
+149,New Zealand,NZL,Western Europe & North America,0.7687167,107
+150,Japan,JPN,South & East Asia,0.7768267,108
+151,Bosnia & Herzegovina,BIH,Other,0.7917603,108
+152,Georgia,GEO,Other,0.819317,106
+153,Moldova,MDA,Other,0.8341572,108
+154,Austria,AUT,Western Europe & North America,0.8588455,108
+155,Greece,GRC,Western Europe & North America,0.8971318,108
+156,Iceland,ISL,Western Europe & North America,0.9034361,104
+157,South Korea,KOR,South & East Asia,0.9392427,107
+158,Slovenia,SVN,Other,0.9606909,108
+159,Portugal,PRT,Western Europe & North America,0.9628264,107
+160,Spain,ESP,Western Europe & North America,0.9805677,108
+161,Montenegro,MNE,Other,0.9914707,108
+162,Luxembourg,LUX,Western Europe & North America,0.9977224,108
+163,North Macedonia,MKD,Other,1.015479,102
+164,Belgium,BEL,Western Europe & North America,1.021567,108
+165,Italy,ITA,Western Europe & North America,1.038481,108
+166,Netherlands,NLD,Western Europe & North America,1.038741,107
+167,Australia,AUS,Western Europe & North America,1.040976,107
+168,Monaco,MCO,Other,1.042387,105
+169,Micronesia (Federated States of),FSM,Other,1.056076,79
+170,Finland,FIN,Western Europe & North America,1.056549,108
+171,Argentina,ARG,Latin America & Caribbean,1.059895,108
+172,Sweden,SWE,Western Europe & North America,1.0856,108
+173,Bulgaria,BGR,Other,1.092075,108
+174,Denmark,DNK,Western Europe & North America,1.112373,108
+175,Canada,CAN,Western Europe & North America,1.121026,108
+176,Albania,ALB,Other,1.122264,108
+177,Germany,DEU,Western Europe & North America,1.131596,107
+178,Latvia,LVA,Other,1.145991,108
+179,Ukraine,UKR,Other,1.162628,106
+180,Slovakia,SVK,Other,1.163513,108
+181,Croatia,HRV,Other,1.164336,108
+182,Poland,POL,Other,1.165867,108
+183,Estonia,EST,Other,1.169639,108
+184,Romania,ROU,Other,1.195715,108
+185,Lithuania,LTU,Other,1.214725,108
+186,Hungary,HUN,Other,1.294809,108
+187,Czechia,CZE,Other,1.301851,108
+188,France,FRA,Western Europe & North America,1.307868,104
+189,United Kingdom,GBR,Western Europe & North America,1.636233,108
+190,Israel,ISR,MENA,2.118216,104
+191,United States,USA,Western Europe & North America,2.163636,107
