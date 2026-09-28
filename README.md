@@ -12,7 +12,7 @@ behind only the United States itself). MENA is also the **most internally divide
 of the five regional groups compared here — in 33 of the 34 years covered.
 
 The region is not a bloc. 
-That is the finding this repository documents.
+This is the finding this repository documents.
 ---
 
 ## Figures
